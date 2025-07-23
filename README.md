@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ramkiran Randhi</h1>
+<h1 align="center">Hi 👋, I'm Ram kiran Randhi</h1>
 <h3 align="center">AIML Enthusiast | Web Developer</h3>
 
 <p align="center">
