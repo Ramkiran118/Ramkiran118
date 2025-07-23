@@ -12,7 +12,7 @@
 - 🎓 Final-year student passionate about **Artificial Intelligence**, **Machine Learning**, and **Web Development**
 - 🌱 Currently learning and building with **Machine Learning**, focusing on real-world applications
 - 💼 Developed my **personal portfolio website** using **HTML & CSS**
-- 🧪 Micro Project: [Crop Yield Estimation using ML Classifier](https://github.com/Ramkiran118/Crop-Yield-Estimation)
+- 🧪 Micro Project: [Crop Yield Estimation using ML Classifier](https://ramkiran118.github.io/Micro-Project/)
 - 🧠 Mini Project: [Long-Term Water Quality Analysis](https://github.com/Ramkiran118/Water-Quality-Analysis)
 - 💬 Ask me about: `Python`, `MySQL`, `Machine Learning`, `Web Design`, `Java`
 - 📫 Reach me at: **ramkiranrandhi@gmail.com**
@@ -21,7 +21,7 @@
 
 ## 🌐 Portfolio
 
-🔗 [**Live Portfolio Website**](https://Ramkiran118.github.io/Portfolio-HTML-CSS)  
+🔗 [**Live Portfolio Website**](https://ramkiran118.github.io/PORTFOLIO/)  
 🖥️ A clean and responsive personal site built with **HTML & CSS**, showcasing my resume, projects, and contact info.
 
 ---
@@ -29,8 +29,8 @@
 ## 🛠️ Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
@@ -39,7 +39,7 @@
 
 ## 🚀 Projects
 
-- **[🌾 Crop Yield Estimation](https://github.com/Ramkiran118/Crop-Yield-Estimation)**  
+- **[🌾 Crop Yield Estimation](https://ramkiran118.github.io/Micro-Project/)**  
   📊 Predicts crop yield using classifiers like **Random Forest** and **KNN**  
   _Tech Used_: Python, Pandas, Scikit-learn
 
@@ -47,7 +47,7 @@
   Forecasts long-term water quality using **Weighted Regression** and **AI techniques**  
   _Tech Used_: Python, Data Science, Regression Models
 
-- **[🌐 HTML/CSS Portfolio Website](https://github.com/Ramkiran118/Portfolio-HTML-CSS)**  
+- **[🌐 My Portfolio Website](https://ramkiran118.github.io/PORTFOLIO/)**  
   🧑‍💼 A personal website to highlight my resume, projects, and contact information  
   _Tech Used_: HTML, CSS
 
@@ -78,7 +78,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-link-here)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ramkiran-randhi-67a3b3287)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramkiranrandhi@gmail.com)
 
 ---
