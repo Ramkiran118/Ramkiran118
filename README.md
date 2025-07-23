@@ -39,11 +39,11 @@
 
 ## 🚀 Projects
 
-- **[🌾 Crop Yield Estimation](https://ramkiran118.github.io/Micro-Project/)**  
+- **[🌾 Crop Yield Estimation]** 
   📊 Predicts crop yield using classifiers like **Random Forest** and **KNN**  
   _Tech Used_: Python, Pandas, Scikit-learn
 
-- **[💧 Water Quality Analysis (Mini Project)](https://github.com/Ramkiran118/Water-Quality-Analysis)**  
+- **[💧 Water Quality Analysis (Mini Project)]**  
   Forecasts long-term water quality using **Weighted Regression** and **AI techniques**  
   _Tech Used_: Python, Data Science, Regression Models
 
@@ -78,7 +78,7 @@
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/ramkiran-randhi-67a3b3287)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramkiran-randhi-67a3b3287)  
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramkiranrandhi@gmail.com)
 
 ---
