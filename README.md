@@ -12,8 +12,8 @@
 - 🎓 Final-year student passionate about **Artificial Intelligence**, **Machine Learning**, and **Web Development**
 - 🌱 Currently learning and building with **Machine Learning**, focusing on real-world applications
 - 💼 Developed my **personal portfolio website** using **HTML & CSS**
-- 🧪 Micro Project: [Crop Yield Estimation using ML Classifier](https://ramkiran118.github.io/Micro-Project/)
-- 🧠 Mini Project: [Long-Term Water Quality Analysis](https://github.com/Ramkiran118/Water-Quality-Analysis)
+- 🧪 Micro Project: [Crop Yield Estimation using ML Classifier]
+- 🧠 Mini Project: [Long-Term Water Quality Analysis]
 - 💬 Ask me about: `Python`, `MySQL`, `Machine Learning`, `Web Design`, `Java`
 - 📫 Reach me at: **ramkiranrandhi@gmail.com**
 
