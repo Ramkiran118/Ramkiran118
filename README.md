@@ -1,13 +1,26 @@
 <h1 align="center">Hi 👋, I'm Ram kiran Randhi</h1>
-<h3 align="center">AIML Enthusiast | Web Developer</h3>
+<h3 align="center">B.Tech Student in AI & ML | Backend Developer | Java & ML Enthusiast</h3>
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Learning+AI+%26+Data+Science;Building+Smart+Projects;Created+My+Portfolio+Too!;Let's+connect+and+grow!&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
 
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Ramkiran118&label=Profile+Views&color=brightgreen" alt="Profile Views" />
 </p>
+
+---
+## 🛠️ Skills
+
+**Programming & Web:** Java, Python, HTML, CSS  
+**Frameworks & Libraries:** Spring Boot, NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib  
+**Databases:** MySQL, MongoDB, PostgreSQL  
+**Platforms & IDEs:** Eclipse IDE, Visual Studio Code, MySQL Workbench, Jupyter Notebook, PGAdmin  
+**Tools & Version Control:** Git, GitHub, Postman  
+**Core Concepts:** DSA, Machine Learning, AI, Backend Development, API Design  
 
 ---
 
@@ -41,21 +54,15 @@
 
 ---
 
-## 🚀 Projects
 
-- **🌾 Crop Yield Estimation**  
-  📊 Predicts crop yield using classifiers like **Random Forest** and **KNN**  
-  _Tech Used_: Python, Pandas, Scikit-learn
+## 💻 Projects
 
-- **💧 Water Quality Analysis (Mini Project)**  
-  Forecasts long-term water quality using **Weighted Regression** and **AI techniques**  
-  _Tech Used_: Python, Data Science, Regression Models
+| # | Project | Description | Technologies |
+|---|---------|------------|--------------|
+| 1 | [**Crop Yield Prediction**](#) | Predicted crop yields using machine learning models for better agricultural planning | Logistic Regression, SVM, NumPy, Pandas, Seaborn, Scikit-learn |
+| 2 | [**Water Analysis using Weighted Regression**](#) | Analyzed water quality using weighted regression models for environmental assessment | Python, NumPy, Pandas, Matplotlib |
+| 3 | [**Java Full Stack Mini Project**](#) | Implemented backend CRUD operations with responsive UI integration | Java, Spring Boot, PostgreSQL, Postman, Eclipse IDE |
 
-- **🌐 Portfolio Website**  
-  🧑‍💼 Personal website to highlight resume, projects, and contact info  
-  _Tech Used_: HTML, CSS
-
----
 
 ## 🏆 Achievements & Certifications
 
@@ -88,6 +95,14 @@
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ramkiran118&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
+</p>
+
+---
+
+## 🐍 GitHub Contributions
+
+<p align="center">
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ramkiranrandhi/ramkiranrandhi/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
