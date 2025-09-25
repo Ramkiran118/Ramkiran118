@@ -1,127 +1,101 @@
-<h1 align="center">Hi 👋, I'm Ram kiran Randhi</h1>
-<h3 align="center">B.Tech Student in AI & ML | Backend Developer | Java & ML Enthusiast</h3>
-
-
+<h1 align="center">Hi 👋, I'm Ram Kiran Randhi</h1>
+<h3 align="center">B.Tech in AI & ML | Backend Developer | Java & ML Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;Learning+AI+%26+Data+Science;Building+Smart+Projects;Created+My+Portfolio+Too!;Let's+connect+and+grow!&center=true&width=500&height=45" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?lines=Welcome+to+my+GitHub!;AI+%26+ML+Explorer;Backend+%26+Web+Developer;Building+Smart+Projects;Let's+Connect+and+Grow!&center=true&width=500&height=45" alt="Typing SVG" />
 </p>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ramkiran118&label=Profile+Views&color=brightgreen" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ramkiranrandhi&label=Profile+Views&color=brightgreen" alt="Profile Views" />
 </p>
 
 ---
-## 🛠️ Skills
 
-**Programming & Web:** Java, Python, HTML, CSS  
-**Frameworks & Libraries:** Spring Boot, NumPy, Pandas, Scikit-learn, Seaborn, Matplotlib  
-**Databases:** MySQL, MongoDB, PostgreSQL  
-**Platforms & IDEs:** Eclipse IDE, Visual Studio Code, MySQL Workbench, Jupyter Notebook, PGAdmin  
-**Tools & Version Control:** Git, GitHub, Postman  
-**Core Concepts:** DSA, Machine Learning, AI, Backend Development, API Design  
+## 🛠️ Tech Stack & Skills  
 
----
-
-## 👨‍💻 About Me
-
-- 🎓 Final-year student passionate about **Artificial Intelligence**, **Machine Learning**, and **Web Development**
-- 🌱 Currently learning and building real-world applications with **Machine Learning**
-- 💼 Built my **personal portfolio website** using **HTML & CSS**
-- 🧪 Micro Project: *Crop Yield Estimation using ML Classifier*
-- 🧠 Mini Project: *Long-Term Water Quality Analysis using AI*
-- 💬 Ask me about: `Python`, `MySQL`, `Machine Learning`, `Web Design`, `Java`
-- 📫 Reach me at: **ramkiranrandhi@gmail.com**
-
----
-
-## 🌐 Portfolio
-
-🔗 [**Live Portfolio Website**](https://ramkiran118.github.io/PORTFOLIO/)  
-🖥️ Clean and responsive personal site built with **HTML & CSS**, showcasing resume, projects, and contact info.
-
----
-
-## 🛠️ Tech Stack
-
+### 🚀 Languages & Web
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![HTML](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-009688?style=for-the-badge)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![HTML5](https://img.shields.io/badge/HTML5-E44D26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-264de4?style=for-the-badge&logo=css3&logoColor=white)
+
+### ⚡ Frameworks & Libraries
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003366?style=for-the-badge&logo=python&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 🛠️ Tools & IDEs
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![MySQL Workbench](https://img.shields.io/badge/MySQL%20Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PgAdmin](https://img.shields.io/badge/PgAdmin-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+### 🔧 Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 👨‍💻 About Me  
+
+- 🎓 B.Tech student passionate about **AI, ML, and Full-Stack Development**  
+- 🌱 Exploring real-world **Machine Learning applications**  
+- 💼 Built my **portfolio website** with **HTML & CSS**  
+- 🧪 **Micro Project:** Crop Yield Estimation using ML Classifier  
+- 🧠 **Mini Project:** Long-Term Water Quality Analysis using AI  
+- 💬 Ask me about: Java, Python, MySQL, Machine Learning, Backend Development  
+- 📫 Reach me at: **ramkiranrandhi@gmail.com**  
+
+---
+
+## 🌐 Portfolio  
+
+🔗 [**Live Portfolio Website**](https://ramkiranrandhi.github.io/PORTFOLIO/)  
+
+---
+
+## 💻 Projects  
+
+| # | Project | Description | Tech Stack | Repo Link |
+|---|---------|-------------|------------|-----------|
+| 1 | **Crop Yield Prediction** | Predicted crop yields using ML models for agriculture | Logistic Regression, SVM, NumPy, Pandas, Scikit-learn | [🔗 Repo](https://github.com/ramkiranrandhi/Crop-Yield-Prediction) |
+| 2 | **Water Quality Analysis** | Environmental water assessment using weighted regression | Python, Pandas, NumPy, Matplotlib | [🔗 Repo](https://github.com/ramkiranrandhi/Water-Analysis-Regression) |
+| 3 | **Java Full Stack CRUD** | Backend CRUD operations with responsive UI | Java, Spring Boot, PostgreSQL, Postman | [🔗 Repo](https://github.com/ramkiranrandhi/Java-Fullstack-CRUD) |
+| 4 | **Portfolio Website** | Personal website showcasing resume, projects, achievements | HTML, CSS | [🔗 Repo](https://github.com/ramkiranrandhi/PORTFOLIO) |
+
+---
+
+## 🏆 Achievements & Certifications  
+
+- 🥇 **Top 10 Finalist** — Hackathon 2K25 @ VGNT College (131+ teams)  
+- 📜 **Java Basics Certification** — HackerRank  
+- 🌐 **Microsoft Learn Student Ambassador** — Web Development Workshop  
 
 ---
 
 
-## 💻 Projects
 
-| # | Project | Description | Technologies |
-|---|---------|------------|--------------|
-| 1 | [**Crop Yield Prediction**](#) | Predicted crop yields using machine learning models for better agricultural planning | Logistic Regression, SVM, NumPy, Pandas, Seaborn, Scikit-learn |
-| 2 | [**Water Analysis using Weighted Regression**](#) | Analyzed water quality using weighted regression models for environmental assessment | Python, NumPy, Pandas, Matplotlib |
-| 3 | [**Java Full Stack Mini Project**](#) | Implemented backend CRUD operations with responsive UI integration | Java, Spring Boot, PostgreSQL, Postman, Eclipse IDE |
-
-
-## 🏆 Achievements & Certifications
-
-- 🥇 Participated in **Hackathon 2K25** at **VGNT College**  
-  📌 Selected among the **Top 10 Teams** out of 131 participants
-
-- 📜 **Java Basics Certification** from **HackerRank**  
-  *(Certificate available in Portfolio)*
-
-- 🌐 **Microsoft Learn Student Ambassador**  
-  🧑‍🏫 Participated in **Web Development Workshop**  
-  *(Certificate available in Portfolio)*
-
----
-
-## 📊 GitHub Stats, Streak & Contribution Graph
+## 🐍 Contribution Snake  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramkiran118&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://streak-stats.demolab.com?user=Ramkiran118&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramkiran118&theme=tokyo-night&area=true" alt="Contribution Graph" />
+  <img alt="snake eating my contributions" src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-## 🏅 GitHub Trophies
+## 📫 Connect with Me  
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ramkiran118&theme=tokyonight&column=4&margin-w=15&margin-h=15" />
-</p>
-
----
-
-## 🐍 GitHub Contributions
-
-<p align="center">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/ramkiranrandhi/ramkiranrandhi/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-## ✍️ Latest Blog Posts (Optional)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- Replace this section with your real blog posts or connect to Dev.to or Medium via RSS -->
-- [🔗 How I Built My Portfolio Website](#)
-- [🔗 Basics of Machine Learning](#)
-- [🔗 Understanding Regression with Real-world Data](#)
-<!-- BLOG-POST-LIST:END -->
-
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramkiran-randhi-67a3b3287)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramkiranrandhi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramkiran-randhi-67a3b3287)  
+[![Gmail](https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ramkiranrandhi@gmail.com)  
 
 ---
 
