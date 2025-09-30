@@ -59,7 +59,7 @@
 
 ## 🌐 Portfolio  
 
-🔗 [**Live Portfolio Website**](https://ramkiranrandhi.github.io/PORTFOLIO/)  
+🔗 [**Live Portfolio Website**](https://github.com/Ramkiran118/PORTFOLIO)
 
 ---
 
@@ -67,10 +67,10 @@
 
 | # | Project | Description | Tech Stack | Repo Link |
 |---|---------|-------------|------------|-----------|
-| 1 | **Crop Yield Prediction** | Predicted crop yields using ML models for agriculture | Logistic Regression, SVM, NumPy, Pandas, Scikit-learn | [🔗 Repo](https://github.com/ramkiranrandhi/Crop-Yield-Prediction) |
-| 2 | **Water Quality Analysis** | Environmental water assessment using weighted regression | Python, Pandas, NumPy, Matplotlib | [🔗 Repo](https://github.com/ramkiranrandhi/Water-Analysis-Regression) |
-| 3 | **Java Full Stack CRUD** | Backend CRUD operations with responsive UI | Java, Spring Boot, PostgreSQL, Postman | [🔗 Repo](https://github.com/ramkiranrandhi/Java-Fullstack-CRUD) |
-| 4 | **Portfolio Website** | Personal website showcasing resume, projects, achievements | HTML, CSS | [🔗 Repo](https://github.com/ramkiranrandhi/PORTFOLIO) |
+| 1 | **Crop Yield Prediction** | Predicted crop yields using ML models for agriculture | Logistic Regression, SVM, NumPy, Pandas, Scikit-learn | [🔗 Repo](https://github.com/Ramkiran118/Micro-Project) |
+| 2 | **Water Quality Analysis** | Environmental water assessment using weighted regression | Python, Pandas, NumPy, Matplotlib | [🔗 Repo](https://github.com/Ramkiran118/Mini--Project) |
+| 3 | **Java Full Stack CRUD** | Backend CRUD operations with responsive UI | Java, Spring Boot, PostgreSQL, Postman | [🔗 Repo](https://github.com/Ramkiran118/Backend-Project) |
+| 4 | **Portfolio Website** | Personal website showcasing resume, projects, achievements | HTML, CSS | [🔗 Repo](https://github.com/Ramkiran118/PORTFOLIO) |
 
 ---
 
